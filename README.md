@@ -13,7 +13,7 @@ I work well with mostly web development (HTML, CSS, Javascript) as well as Pytho
 ----------------------------------------------------------------------------------------------------------------------------------
 
 About Me
-
+• 📍 Greenville, SC
 • 🤔 I enjoy problem-solving and deep-thinking work
 • 🐱 I am a cat person
 • 🎓 5.0 Honors Student (weighted)
